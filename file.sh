@@ -1,5 +1,5 @@
 #!/bin/bash
-var1= 10
+var1= 11
 if [ $var1 -gt 8 ];
 then 
     echo "This variable is greater than 8"
